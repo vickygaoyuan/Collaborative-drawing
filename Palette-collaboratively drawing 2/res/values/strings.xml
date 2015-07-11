@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Palette!</string>
+    <string name="app_name">palette</string>
+    <string name="facebook_app_id">381879175270438</string>
+</resources>

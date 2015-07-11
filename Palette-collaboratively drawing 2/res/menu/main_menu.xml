@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Palette" >
+
+    <item
+	    android:id="@+id/save"
+	    android:title="Save"/>
+	
+	<item
+	    android:id="@+id/open"
+	    android:title="Open"/>
+    
+	<item
+	    android:id="@+id/share"
+	    android:showAsAction="ifRoom"
+	    android:title="Share"
+	    android:actionProviderClass=
+                "android.widget.ShareActionProvider" />
+	
+    <item
+	    android:id="@+id/close"
+	    android:title="Close"/>
+    
+</menu>
